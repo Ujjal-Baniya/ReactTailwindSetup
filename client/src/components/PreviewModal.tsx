@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import { Smartphone, Tablet, Monitor, X } from "lucide-react";
+import { Smartphone, Tablet, Monitor, X, Download } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { generateHTML } from "@/lib/generateHTML";
 import { generateCSS } from "@/lib/generateCSS";
